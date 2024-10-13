@@ -8,6 +8,7 @@ dependencies:
   - ipycanvas
   - scipy
   - matplotlib
+  - requests
   - seaborn
   - plotly
   - imbalanced-learn
