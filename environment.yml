@@ -11,4 +11,4 @@ dependencies:
   - requests
   - seaborn
   - plotly
-  - imbalanced-learn
+  - imbalanced-learn=0.9.1
