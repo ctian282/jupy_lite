@@ -8,3 +8,6 @@ dependencies:
   - ipycanvas
   - scipy
   - matplotlib
+  - imblearn
+  - seaborn
+  - plotly
