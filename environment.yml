@@ -11,5 +11,3 @@ dependencies:
   - requests
   - seaborn
   - plotly
-  - scikit-learn=1.1.0
-  - imbalanced-learn=0.9.1
