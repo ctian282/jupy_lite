@@ -11,6 +11,6 @@ dependencies:
   - requests
   - seaborn
   - plotly
-  - ipywidgets
-  - networkx
-  - bokeh
+  #- ipywidgets
+  #- networkx
+  #- bokeh
